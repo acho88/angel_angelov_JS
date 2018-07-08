@@ -1,0 +1,48 @@
+body, div, table, tr, td, a, ul, li{
+	margin:0;
+	padding:0;
+}
+#wrapper{
+	margin: 0 auto;
+	width: 400px;
+}
+#wrapper table{
+	margin:50px auto 0 auto;
+	
+}
+#wrapper table tr td{
+	width:50px;
+	height:50px;
+	border-radius:50%;
+}
+.td1{
+	background-color: red;
+}
+.td2{
+	background-color: green;
+}
+.td3{
+	background-color: blue;
+}
+.td4{
+	background-color: orange;
+}
+a{
+	margin: 50px  auto;
+}
+ul{
+	margin:0 auto;
+}
+
+li{
+	list-style: none;
+	margin:0 auto;
+	display: none;
+	border-radius: 50%;
+	background-color: #ccc;
+	height:50px;
+	width:50px;
+	font-family: Arial;
+	text-align: center;
+	line-height:50px;
+}
